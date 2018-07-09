@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhangshihui/seemmo_model/seemmo_model/app/api_v1'
+let g:netrw_dirhist_2='/home/zhangshihui/git_video_record/video_record'
+let g:netrw_dirhist_3='/home/zhangshihui/git_video_record'
+let g:netrw_dirhist_4='/home/zhangshihui'
+let g:netrw_dirhist_5='/home/zhangshihui/seemmo_model'
+let g:netrw_dirhist_6='/home/zhangshihui/seemmo_model/seemmo_model'
+let g:netrw_dirhist_7='/home/zhangshihui/seemmo_model/seemmo_model/app'
+let g:netrw_dirhist_8='/home/zhangshihui/seemmo_model/seemmo_model/app/api_v1'
+let g:netrw_dirhist_9='/home/zhangshihui/git_video_record/video_record'
