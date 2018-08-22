@@ -13,3 +13,8 @@ alias ls='ls --color=tty'
 配置vim 主题和插件
 
 1.cp .vim目录 .vimrc文件到~目录
+
+
+配置查找命令路径
+
+1.修改 .bash_profile 并执行
